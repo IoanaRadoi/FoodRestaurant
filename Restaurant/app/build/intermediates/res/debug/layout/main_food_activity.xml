@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="ro.pub.cs.systems.pdsd.lab05.foodrestaurant.view.MainFoodActivity" >
+    
+    <FrameLayout 
+        android:id="@+id/contact_basic_details"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" 
+        android:layout_weight="3" />
+    
+
+
+</LinearLayout>
+<!-- From: file:/C:/Users/ioana.radoi/Desktop/TemaRC/TemaFin/Restaurant/app/src/main/res/layout/main_food_activity.xml -->

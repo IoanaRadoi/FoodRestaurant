@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\.g\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\ioana.radoi\Desktop\TemaRC\TemaFin\Restaurant\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-ed199a9f58157f668d34b94fb70bfca4db0a97c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\ioana.radoi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\ioana.radoi\Desktop\TemaRC\TemaFin\Restaurant\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-4e152851d0a05e68908f93672e52c5e69479aa6f.jar" />
+    </item>
+    <item
+        jar="C:\.g\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\ioana.radoi\Desktop\TemaRC\TemaFin\Restaurant\app\build\intermediates\pre-dexed\debug\gson-2.3.1-c29e9d98f63226438b7c13605c1861fc2e9da24f.jar" />
+    </item>
+
+</items>

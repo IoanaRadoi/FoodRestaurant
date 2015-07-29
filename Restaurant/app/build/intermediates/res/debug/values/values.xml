@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/ioana.radoi/Desktop/TemaRC/TemaFin/Restaurant/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="email_addresses_types">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="phone_number_types">
+        <item>Mobile</item>
+        <item>Work</item>
+        <item>Home</item>
+        <item>Main</item>
+        <item>Work Fax</item>
+        <item>Home Fax</item>
+        <item>Pager</item>
+        <item>Other</item>
+    </string-array>
+    <!-- From: file:/C:/Users/ioana.radoi/Desktop/TemaRC/TemaFin/Restaurant/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="light_blue">#7fbed3</color>
+    <color name="light_gray">#cccccc</color>
+    <!-- From: file:/C:/Users/ioana.radoi/Desktop/TemaRC/TemaFin/Restaurant/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/ioana.radoi/Desktop/TemaRC/TemaFin/Restaurant/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="add_another_email_address">Add another email address</string>
+    <string name="add_another_phone_number">Add another phone number</string>
+    <string name="app_name">Food</string>
+    <string name="cancel">Cancel</string>
+    <string name="comanda">Comanda curenta (apasati lung pentru a sterge produse):</string>
+    <string name="delete">Delete</string>
+    <string name="emails">===EMAILS===</string>
+    <string name="empty">-</string>
+    <string name="home">Home:</string>
+    <string name="insert">Insert</string>
+    <string name="last_time_contacted">Last Time Contacted:</string>
+    <string name="mobile">Mobile:</string>
+    <string name="other">Other:</string>
+    <string name="phones">===PHONES===</string>
+    <string name="photo_content_description">Contact\'s Photo</string>
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+    <string name="starred_description">Favourite Status</string>
+    <string name="times_contacted">Times Contacted:</string>
+    <string name="total">Total :</string>
+    <string name="trimite">Trimite comanda!</string>
+    <string name="update">Update</string>
+    <string name="work">Work:</string>
+    <!-- From: file:/C:/Users/ioana.radoi/Desktop/TemaRC/TemaFin/Restaurant/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

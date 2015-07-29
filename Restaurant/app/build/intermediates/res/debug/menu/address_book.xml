@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ro.pub.cs.systems.pdsd.lab05.foodrestaurant.AddressBookActivity" >
+
+    <item
+        android:id="@+id/action_insert"
+        android:icon="@drawable/insert"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/insert"/>
+    
+    <item
+        android:id="@+id/action_update"
+        android:icon="@drawable/update"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/update"/>
+    
+
+</menu>
+<!-- From: file:/C:/Users/ioana.radoi/Desktop/TemaRC/TemaFin/Restaurant/app/src/main/res/menu/address_book.xml -->
